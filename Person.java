@@ -4,4 +4,6 @@ public class Person{
 	String s = "Jakies zdanie1";
 	String b = "Jakies zdanie2";
 	String c = "Jakies zdanie3";
+	String d = "Jakies zdanie4";
+	String e = "Jakies zdanie5";
 }
