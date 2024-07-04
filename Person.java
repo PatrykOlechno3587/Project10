@@ -6,4 +6,6 @@ public class Person{
 	String c = "Jakies zdanie3";
 	String d = "Jakies zdanie4";
 	String e = "Jakies zdanie5";
+	String f = "Jakies zdanie6";
+	String g = "Jakies zdanie7";
 }
